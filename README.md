@@ -1,6 +1,6 @@
 # Bisco Supply Chain Analysis
 
-IMG
+![Data-Model](Images/Restuarant.jpg)
 
 ## Introduction
 
