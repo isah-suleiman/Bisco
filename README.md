@@ -69,7 +69,7 @@ Bisco has data on 1,500 orders from 10 suppliers, which will be analyzed to unco
 
 ### **Modelling**
 
-IMG
+![Data-Model](Images/BiscoModel.png)
 
 ### **Visualization**
 
@@ -79,7 +79,10 @@ This report consists of 4 Pages:
 3. Order Analysis
 4. Insights and Recommendations
 
-You can interact with the report here:
+![Dashboardl](Images/file_page-0001.jpg)
+![Supplier-Analysis](Images/file_page-0002.jpg)
+![Order-Analysis](Images/file_page-0003.jpg)
+
 
 ### **INSIGHTS**
 
